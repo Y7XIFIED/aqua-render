@@ -18,5 +18,7 @@ To run this project locally:
    npm run dev
    ```
 
+![Preview Demo](preview.gif)
+
 ---
 *Made by Y7XIFIED*
