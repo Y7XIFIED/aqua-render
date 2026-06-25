@@ -1,24 +1,34 @@
-# Aqua Render
+<h3 align="center"><b>AQUA RENDER</b></h3>
 
-An interactive water effect rendered using WebGL and Three.js. 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,threejs" />
+</p>
 
-🌐 **Live Demo:** [https://aqua-render.vercel.app](https://aqua-render.vercel.app)
+Dive into a mesmerizing, interactive water effect built with the magic of WebGL and Three.js! Watch as the liquid surface reacts dynamically, bringing a splash of beautiful, fluid motion straight to your browser. Whether you are here to explore the codebase or just play around with the ripples, we hope you enjoy the experience!
+
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://aqua-render.vercel.app](https://aqua-render.vercel.app)
+
+<br>
+
+<div align="center">
+  <img src="preview.gif" alt="Preview Demo" />
+</div>
+
+<br>
 
 ## Local Development
 
-To run this project locally:
+Want to run this splashy project on your own machine? It is super easy!
 
-1. Clone the repository.
-2. Install dependencies:
+1. Clone the repository to your local computer.
+2. Install the necessary dependencies:
    ```bash
    npm install
    ```
-3. Start the Vite development server:
+3. Fire up the Vite development server:
    ```bash
    npm run dev
    ```
 
-![Preview Demo](preview.gif)
-
----
-*Made by Y7XIFIED*
+<div align="center"><p>Y7XIFIED</p></div>
