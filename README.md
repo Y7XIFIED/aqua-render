@@ -1,5 +1,7 @@
 <h3 align="center"><b>AQUA RENDER</b></h3>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
+
 ![Preview Demo](preview.gif)
 
 ## 🚀 Live Website
@@ -50,7 +52,6 @@ aqua-render/
 ```
 
 ## 💻 Tech Stack
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
 - **HTML5 & CSS3**: Structural vectors and custom styling variables.
 - **JavaScript (ES6)**: Core logic and interactions.
