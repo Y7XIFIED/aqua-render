@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/aqua-render.git
-cd aqua-render
+git clone https://github.com/Y7XIFIED/Aqua-Render.git
+cd Aqua-Render
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-aqua-render/
+Aqua-Render/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json
